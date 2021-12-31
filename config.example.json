@@ -1,0 +1,11 @@
+{
+    "discord_token": "discord_token",
+    "naver_search_api_client_id": "naver_search_api_client_id",
+    "naver_search_api_client_secret": "naver_search_api_client_secret",
+    "mysql_server_user": "music",
+    "mysql_server_password": "password",
+    "mysql_server_host": "127.0.0.1",
+    "mysql_server_port": "3306",
+    "mysql_server_database": "music",
+    "system_debug_mode": false    
+}
