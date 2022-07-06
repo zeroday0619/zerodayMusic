@@ -1,7 +1,7 @@
 Cython==0.29.28
 git+https://github.com/Pycord-Development/pycord.git
 rich==11.2.0
-ujson==5.1.0
+ujson==5.4.0
 databases[mysql]==0.5.5
 orjson>=3.5.4
 aiodns>=1.1
