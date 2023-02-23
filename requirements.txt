@@ -1,10 +1,10 @@
-Cython==0.29.28
+Cython==0.29.33
 git+https://github.com/Pycord-Development/pycord.git
-rich==11.2.0
-ujson==5.4.0
-databases[mysql]==0.5.5
-orjson>=3.5.4
-aiodns>=1.1
+rich==13.3.1
+ujson==5.7.0
+databases[mysql]==0.7.0
+orjson>=3.8.6
+aiodns>=3.3.0
 Brotlipy
 cchardet
 
