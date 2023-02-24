@@ -1,5 +1,6 @@
 Cython==0.29.33
 git+https://github.com/Pycord-Development/pycord.git
+git+https://github.com/zeroday0619/HQME.git
 rich==13.3.1
 ujson==5.7.0
 databases[mysql]==0.7.0
@@ -7,5 +8,4 @@ orjson>=3.8.6
 aiodns
 Brotlipy
 cchardet
-
 loguru~=0.6.0
